@@ -1,0 +1,21 @@
+﻿{
+  "title": "Users",
+  "type": "object",
+  "properties": {
+    "UserList": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "UserName": {
+            "type": "string"
+          },
+          "FailCount": {
+            "type": [ "integer", "null" ]
+          }
+        }
+      }
+    }
+  },
+  "additionalProperties": false
+}

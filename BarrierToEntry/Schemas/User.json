@@ -1,0 +1,13 @@
+﻿{
+  "title": "User",
+  "type": "object",
+  "properties": {
+    "UserName": {
+      "type": "string"
+    },
+    "FailCount": {
+      "type": [ "integer", "null" ]
+    }
+  },
+  "additionalProperties": false
+}
