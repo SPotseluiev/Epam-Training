@@ -1,1 +1,1 @@
-# Epam-Training
+# Automated Testing Global Mentoring Program: Advanced
